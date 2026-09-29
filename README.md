@@ -111,10 +111,6 @@ Test-set results on the mixed_v2 split (TVM broadcast frames only):
 
 416 px is the primary configuration; 640 px and 1024 px form a resolution experiment. Full per-class results and discussion are in the thesis.
 
-## Data availability
-
-The annotated Maltese brand dataset, the source TVM broadcast footage, and the promotional images are **not publicly released**, as they contain third-party copyrighted material. Requests for access can be directed to Dr Dylan Seychell, Department of Computer Information Systems, University of Malta.
-
 LogoDet-3K is publicly available from its original authors.
 
 ## Acknowledgements
